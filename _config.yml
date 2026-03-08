@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Grégoire Corlùy"
 title_separator          : "-"
-name                     : &name "Grégoire Corlùy"
-description              : &description "Grégoire Corlùy"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Grégoire Corlùy (Gregoire Corluy)"
+description              : &description "Grégoire Corlùy (Gregoire Corluy) - Researcher in machine learning applied to engineering problems"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://GregoireCorluy.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "Grégoire_Corlùy_professional_square.jpg"
   name             : "Grégoire Corlùy"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student in machine learning applied to combustion"
+  bio              : "PhD student in machine learning for engineering applications"
   location         : "Brussels, Belgium"
   employer         : "Université Libre de Bruxelles"
   uri              : # URL
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : grégoire-corlùy
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
