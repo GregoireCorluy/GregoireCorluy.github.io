@@ -3,7 +3,7 @@ title: "Progress variable optimization: Effects on the manifold topology and red
 collection: publications
 category: manuscripts
 permalink: /publication/2026-paper-Energy-and-AI
-excerpt: 'This paper investigates how an encoder-decoder affects the manifold topology and hence how it influences the reduced-order modeling.'
+#excerpt: 'This paper investigates how an encoder-decoder affects the manifold topology and hence how it influences the reduced-order modeling.'
 date: 2026-02-23
 venue: 'Under review in Energy and AI'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'

@@ -3,7 +3,7 @@ title: "Progress variable optimization in a hydrogen flame for reduced-order mod
 collection: publications
 category: conferences
 permalink: /publication/2025-conference-paper-AIFluids
-excerpt: 'This paper investigates the application of the encoder-decoder to hydrogen datasets of different complexities and compares the performances of an heuristic PV with an optimized PV.'
+#excerpt: 'This paper investigates the application of the encoder-decoder to hydrogen datasets of different complexities and compares the performances of an heuristic PV with an optimized PV.'
 date: 2025-05-28
 venue: 'the Proceedings of the 1st International Symposium of AI and Fluid Mechanics'
 # paperurl: 'https://academicpages.github.io/files/paper3.pdf'
