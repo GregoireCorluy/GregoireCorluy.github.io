@@ -7,7 +7,8 @@ permalink: /publication/2026-paper-Energy-and-AI
 date: 2026-02-23
 venue: 'Under review in Energy and AI'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-# paperurl: 'https://academicpages.github.io/files/paper1.pdf'
+# paperurl: 'https://github.com/GregoireCorluy/PV-optimization-for-ROM'
 bibtexurl: 'https://GregoireCorluy.github.io/files/bibtex-paper-Energy-and-AI-2026.bib'
+githuburl: 'https://github.com/GregoireCorluy/PV-optimization-for-ROM'
 citation: 'G. Corlùy, K. Zdybał, A. Parente - Progress variable optimization: Effects on the manifold topology and reduced-order modeling, under review for "Energy&AI", volume, (2026) page'
 ---

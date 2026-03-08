@@ -18,29 +18,12 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2021: Internship at FlandersMake<br>
+Development of a smartclamp with Asad Baig under supervision and guidance of Lennert Es. The smartclamp is a tool fixed on a robotarm to drill holes in a more stable way, hence improving the quality of the drill. Presentation of the product at EMO Milano 2021, a world exhibition dedicated to metalworking, in Milan, Italy.
   
-Skills
+Languages
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+French (Native or bilingual proficiency); Dutch (Native or bilingual proficiency); English (Professional proficiency)
 
 Publications
 ======
