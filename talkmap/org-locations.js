@@ -1,22 +1,17 @@
 var addressPoints = [
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Reduced-Order Modeling With An Optimized Progress Variable For A Hydrogen Flame<br />Math2Product (M2P); Valencia, Spain",
+    39.4697065,
+    -0.3763353
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Neural networks and their applications in engineering<br />ULB; Brussels, Belgium",
+    50.8467372,
+    4.352493
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
-  ],
-  [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Progress variable optimization in a hydrogen flame for reduced-order modeling using an encoder-decoder<br />1st International Symposium AI and Fluid Mechanics; Chania, Crete, Greece",
+    35.5120831,
+    24.0191544
   ]
 ];
