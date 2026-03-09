@@ -132,9 +132,9 @@
   <script type="application/ld+json">
     {
       "@context": "http://schema.org",
-      "@type": "Organization",
+      "@type": "Person",
       "url": {{ seo_url | jsonify }},
-      "logo": {{ site.og_image | prepend: "/images/" | prepend: base_path | jsonify }}
+      "image": {{ site.og_image | prepend: "/images/" | prepend: base_path | jsonify }}
     }
   </script>
 {% endif %}

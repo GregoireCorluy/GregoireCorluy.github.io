@@ -143,7 +143,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/images/Grégoire_Corlùy_professional_square.jpg" # Social media default site image
+og_image                 : "Grégoire_Corlùy_professional_square.jpg" # Social media default site image
 og_description           : "Personal website of Grégoire Corlùy" # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
