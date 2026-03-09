@@ -130,7 +130,7 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification :
+google_site_verification : 
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -143,14 +143,18 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_image                 : "/images/Grégoire_Corlùy_professional_square.jpg" # Social media default site image
+og_description           : "Personal website of Grégoire Corlùy" # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person # Person or Organization (defaults to Person)
+  name                   : "Grégoire Corlùy" # If the user or organization name differs from the site's name
+  links: 
+    - https://scholar.google.com/citations?user=p42NcoIAAAAJ
+    - https://orcid.org/0009-0007-8754-0753
+    - https://github.com/GregoireCorluy
+    - https://www.linkedin.com/in/grégoire-corlùy/# An array of links to social media profiles
 
 
 # Analytics
