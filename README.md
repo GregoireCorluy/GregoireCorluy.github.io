@@ -1,1 +1,1 @@
-Repository of my personal website https://gregoirecorluy.github.io/ which was coded based on a template of https://academicpages.github.io/.
+Repository of my personal website https://gregoirecorluy.github.io/ which was coded based on a template of https://github.com/academicpages/academicpages.github.io.
