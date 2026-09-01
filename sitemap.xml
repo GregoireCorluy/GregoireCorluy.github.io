@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://www.xml-sitemaps.com/css/sitemap.css"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+       <loc>https://gregoirecorluy.github.io/</loc>
+       <lastmod>2026-09-01T11:44:00+00:00</lastmod>
+       <priority>1.0000</priority>
+  </url>
+  <url>
+       <loc>https://gregoirecorluy.github.io/feed.xml</loc>
+       <lastmod>2026-09-01T11:44:00+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://gregoirecorluy.github.io/publications/</loc>
+       <lastmod>2026-09-01T11:44:00+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://gregoirecorluy.github.io/cv/</loc>
+       <lastmod>2026-09-01T11:44:00+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://gregoirecorluy.github.io/sitemap/</loc>
+       <lastmod>2026-09-01T11:44:00+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://gregoirecorluy.github.io/publication/2026-paper-Energy-and-AI</loc>
+       <lastmod>2026-09-01T11:44:00+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://gregoirecorluy.github.io/talks/2025-06-05-talk-Math2Product</loc>
+       <lastmod>2026-09-01T11:44:00+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://gregoirecorluy.github.io/talks/2025-talk-AIFluids</loc>
+       <lastmod>2026-09-01T11:44:00+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://gregoirecorluy.github.io/talks/2025-Seminar-NN-in-engineering</loc>
+       <lastmod>2026-09-01T11:44:00+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://gregoirecorluy.github.io/teaching/2024-Supervision</loc>
+       <lastmod>2026-09-01T11:44:00+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://gregoirecorluy.github.io/teaching/2025-spring-teaching-data-driven-engineering</loc>
+       <lastmod>2026-09-01T11:44:00+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://gregoirecorluy.github.io/sitemap.xml</loc>
+       <lastmod>2026-09-01T11:44:00+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+</urlset>
