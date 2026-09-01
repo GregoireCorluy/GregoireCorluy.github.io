@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://https://gregoirecorluy.github.io//sitemap.xml
+Sitemap: https://gregoirecorluy.github.io/sitemap.xml
