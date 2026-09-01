@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Grégoire Corlùy - PhD student in machine learning for engineering applications"
+title: "Grégoire Corlùy"
 author_profile: true
 redirect_from: 
   - /about/
