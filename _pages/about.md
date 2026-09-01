@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Grégoire Corlùy"
+#title: "Grégoire Corlùy"
 author_profile: true
 redirect_from: 
   - /about/
